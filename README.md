@@ -6,21 +6,21 @@ A sleek, responsive web application built with **Next.js 14 (App Router)**, **Ty
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔐 **Authentication** using NextAuth.js (Register/Login)
-- 🎞️ **Popular & Genre-Based Movie Listings**
-- 🔍 **Search** functionality with dynamic results
-- 📄 **Detailed Movie Page** (`/movie/[id]`) with overview, rating, and more
-- ⭐ **Favorites** feature (stored in localStorage)
-- 🌓 **Dark Mode** support via Tailwind
-- ⚡ **Skeleton Loaders** for better UX
-- ✅ **Protected Routes** for authenticated users only
-- 🌐 Deployed with Vercel
+-  **Authentication** using NextAuth.js (Register/Login)
+-  **Popular & Genre-Based Movie Listings**
+-  **Search** functionality with dynamic results
+-  **Detailed Movie Page** (`/movie/[id]`) with overview, rating, and more
+-  **Favorites** feature (stored in localStorage)
+-  **Dark Mode** support via Tailwind
+-  **Skeleton Loaders** for better UX
+-  **Protected Routes** for authenticated users only
+-  Deployed with Vercel
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 - **Next.js 14 (App Router)**
 - **TypeScript**
@@ -60,7 +60,7 @@ movie-explorer-app/
 
 ---
 
-## 📦 Getting Started (Local Setup)
+##  Getting Started (Local Setup)
 
 1. **Clone this repository:**
 git clone https://github.com/YOUR_USERNAME/movie-explorer-app.git
@@ -80,6 +80,11 @@ You can get a TMDB key from https://www.themoviedb.org/settings/api
 Run the app:
 npm run dev
 The app will run on http://localhost:3000
+
+📤 Submission
+✅ GitHub Repository: https://github.com/Bhoomi-Landge/movie-explorer.git
+
+✅ Live URL:[https://vercel.com/bhoomis-projects-d94a3edc/movie-explorer-ahjz]
 
 
 
